@@ -12,7 +12,7 @@
  
  🔭 I’m currently studing at university
  
- 🌱 I’m currently learning RestAPI, Python and Django
+ 🌱 I’m currently learning RestAPI, React, Angular
 
 
  </div>
