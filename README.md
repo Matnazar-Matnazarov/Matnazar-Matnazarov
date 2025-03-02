@@ -11,7 +11,7 @@
  
  🔭 I’m currently studing at university
  
- 🌱 I’m currently learning RestAPI, React, Angular
+ 🌱 I’m currently learning RestAPI, React Native
 
 
  </div>
