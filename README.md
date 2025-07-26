@@ -125,12 +125,6 @@
   <p>Available for <strong>freelance projects</strong> and <strong>full-time opportunities</strong>.</p>
 </div>
 
-<!-- Professional Analytics -->
-<div align="center">
-  <h3>📈 Professional Analytics</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievement?username=Matnazar-Matnazarov&theme=radical&hide_border=true" alt="Achievements" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/activity?username=Matnazar-Matnazarov&theme=radical&hide_border=true" alt="Activity" />
-</div>
 
 <hr/>
 
