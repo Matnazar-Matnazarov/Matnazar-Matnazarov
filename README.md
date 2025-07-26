@@ -8,9 +8,17 @@
 
 <h3 align="center">🐍 Mid-Level Backend Developer & Full-Stack Engineer from Uzbekistan 🇺🇿</h3>
 
-<div align="center">  <img src="https://github-readme-stats.vercel.app/api?username=Matnazar-Matnazarov&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matnazar-Matnazarov&theme=radical" alt="GitHub Streak" />
-</div>  
+<!-- Real-time GitHub Stats with accurate commit counting -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matnazar-Matnazarov&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&custom_title=GitHub%20Statistics&card_width=450&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matnazar-Matnazarov&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&card_width=450" alt="GitHub Streak" />
+</div>
+
+<!-- Additional Real-time Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matnazar-Matnazarov&theme=radical&hide_border=true&exclude=Matnazar-Matnazarov" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matnazar-Matnazarov&theme=radical&hide_border=true&utc_offset=5" alt="Productive Time" />
+</div>
 
 <br/>
 
@@ -95,10 +103,33 @@
 
 <br/>
 
+<!-- Real-time Language Statistics -->
 <div align="center">
   <h3>📊 Most Used Languages (Backend Focus)</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matnazar-Matnazarov&layout=compact&theme=radical&langs_count=6&hide=html,css&exclude_repo=Matnazar-Matnazarov" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matnazar-Matnazarov&layout=compact&theme=radical&langs_count=6&hide=html,css&exclude_repo=Matnazar-Matnazarov&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&card_width=800" alt="Top Languages" />
   <p><em>Python-focused backend development with JavaScript for frontend integration</em></p>
+</div>
+
+<!-- Repository Statistics -->
+<div align="center">
+  <h3>📈 Repository Statistics</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matnazar-Matnazarov&theme=radical&hide_border=true&exclude=Matnazar-Matnazarov" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matnazar-Matnazarov&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<!-- Professional Summary -->
+<div align="center">
+  <h3>🎯 Professional Summary</h3>
+  <p><strong>Python Backend Developer</strong> with expertise in building scalable web applications and APIs.</p>
+  <p>Specialized in <strong>Django, FastAPI, PostgreSQL, MongoDB, Redis, Celery, and AWS</strong>.</p>
+  <p>Available for <strong>freelance projects</strong> and <strong>full-time opportunities</strong>.</p>
+</div>
+
+<!-- Professional Analytics -->
+<div align="center">
+  <h3>📈 Professional Analytics</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievement?username=Matnazar-Matnazarov&theme=radical&hide_border=true" alt="Achievements" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/activity?username=Matnazar-Matnazarov&theme=radical&hide_border=true" alt="Activity" />
 </div>
 
 <hr/>
@@ -132,10 +163,10 @@
 
 <hr/>
 
-<h2 align="center">📊 GitHub Analytics 📊</h2>
+<h2 align="center">📊 Real-time GitHub Analytics 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matnazar-Matnazarov&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matnazar-Matnazarov&theme=radical&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&custom_title=Weekly%20Activity%20Trend&card_width=1000&range=7d" alt="GitHub Activity Graph" />
 </div>
 
 <hr/>
@@ -144,15 +175,17 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
   <br/><br/><br/>
 </div>
 
+
 <hr/>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏆 GitHub Achievements & Trophies 🏆</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matnazar-Matnazarov&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Matnazar-Matnazarov&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience" alt="GitHub Trophies" />
 </div>
 
 <hr/>
@@ -162,25 +195,33 @@
 <div align="center">
   <p><strong>Looking for a reliable Python Backend Developer for your next project?</strong></p>
   <p>I specialize in building scalable, high-performance backend solutions with modern Python technologies.</p>
-  <p>✅ <strong>Available for freelance projects</strong> | ✅ <strong>Quick turnaround time</strong> | ✅ <strong>Quality code delivery</strong></p>
   
-  <a href="https://www.linkedin.com/in/matnazar-matnazarov-73679b275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:matnazarmatnazarov3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/Matnazarov04">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <div style="display: inline-block; margin: 10px;">
+    <p>✅ <strong>Available for freelance projects</strong></p>
+    <p>✅ <strong>Quick turnaround time</strong></p>
+    <p>✅ <strong>Quality code delivery</strong></p>
+    <p>✅ <strong>24/7 communication support</strong></p>
+  </div>
+  
+  <div style="margin: 20px 0;">
+    <a href="https://www.linkedin.com/in/matnazar-matnazarov-73679b275/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:matnazarmatnazarov3@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://t.me/Matnazarov04">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+  </div>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ready+to+build+something+amazing?+🚀;Let's+discuss+your+project!+💬;Thanks+for+visiting!+😊" />
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://github.com/Matnazar-Matnazarov/Matnazar-Matnazarov/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <p><em>Last updated: <script>document.write(new Date().toLocaleDateString())</script></em></p>
 </div>
