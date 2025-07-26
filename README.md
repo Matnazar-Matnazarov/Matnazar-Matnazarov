@@ -96,7 +96,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matnazar-Matnazarov&layout=compact&theme=radical" alt="Top Languages" />
+  <h3>📊 Most Used Languages (Backend Focus)</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matnazar-Matnazarov&layout=compact&theme=radical&langs_count=6&hide=html,css&exclude_repo=Matnazar-Matnazarov" alt="Top Languages" />
+  <p><em>Python-focused backend development with JavaScript for frontend integration</em></p>
 </div>
 
 <hr/>

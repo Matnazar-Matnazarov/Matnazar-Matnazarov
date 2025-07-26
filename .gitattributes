@@ -1,1 +1,35 @@
-*.js linguist-vendored
+# Reduce JavaScript percentage by excluding some JS files
+*.jsx linguist-vendored
+*.ts linguist-vendored
+*.tsx linguist-vendored
+*.css linguist-vendored
+*.scss linguist-vendored
+*.sass linguist-vendored
+*.less linguist-vendored
+*.html linguist-vendored
+*.htm linguist-vendored
+*.json linguist-vendored
+*.xml linguist-vendored
+*.svg linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.gif linguist-vendored
+*.ico linguist-vendored
+*.woff linguist-vendored
+*.woff2 linguist-vendored
+*.ttf linguist-vendored
+*.eot linguist-vendored
+
+# Include Python files in language statistics
+*.py linguist-language=Python
+*.pyw linguist-language=Python
+*.pyi linguist-language=Python
+
+# Mark specific directories as vendored
+node_modules/ linguist-vendored
+static/ linguist-vendored
+assets/ linguist-vendored
+dist/ linguist-vendored
+build/ linguist-vendored
+public/ linguist-vendored
