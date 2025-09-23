@@ -216,6 +216,3 @@
 
 ---
 
-<div align="center">
-  <p><em>Last updated: <script>document.write(new Date().toLocaleDateString())</script></em></p>
-</div>
