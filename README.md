@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matnazar!;+Python+Backend+Developer;+Full-Stack+Engineer;+Welcome+to+my+profile!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matnazar!;+Python+Backend+Developer;+Freelance+Software+Engineer;+Welcome+to+my+profile!;" />
 </div>
 
 <div align="center">
@@ -194,8 +194,11 @@
   </div>
 </div>
 
+
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ready+to+build+something+amazing?+🚀;Let's+discuss+your+project!+💬;Thanks+for+visiting!+😊" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Ready+to+build+something+amazing?+🚀;Let's+discuss+your+project!+💬;Thanks+for+visiting!+😊" />
 </div>
 
 ---
